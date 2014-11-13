@@ -25,8 +25,18 @@ uso inmediato, pero eso va en desmedro de la usabilidad real a largo plazo, la
 mantenibilidad, la articulación con otras aplicaciones y los usos en distintas
 aplicaciones.
 
+> Todos trabajan
+
+Las metodologías ágiles tienen que ver con trabajar con el cliente, no para el
+cliente.
+
 > Mejora continua
 
 Siempre intentamos utilizar las últimas tecnologías, toda inversión incluye el que
 nosotros estudiemos y apliquemos lo nuevo en el mercado, a cambio, usted obtiene
 buenas prácticas y la última tecnología.
+ 
+ > Precio diferenciado
+ 
+Si nos gusta el proyecto o realmente es algo necesario, nosotros pagamos parte del
+proyecto.
